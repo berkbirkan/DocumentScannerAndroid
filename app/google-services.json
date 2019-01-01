@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "964232408609",
+    "firebase_url": "https://documentscanner-34852.firebaseio.com",
+    "project_id": "documentscanner-34852",
+    "storage_bucket": "documentscanner-34852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964232408609:android:d91ccbe79b8a8336",
+        "android_client_info": {
+          "package_name": "com.berkbirkan.documentscannerml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964232408609-2u7to02gv7lk38697spr8rcouk0d18sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNAaSApIcYMWIN0B6zDDB6Ya97dosBYyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
